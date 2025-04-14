@@ -32,7 +32,7 @@ This is a **Streamlit-based web app** that allows users to securely **encrypt an
 ### 🔧 Step 1: Clone the Repository
 
 ```bash
-git clone [https://github.com/yourusername/secure-data-encryption.git](https://github.com/hassannawaz02/Assigment-05.git)
+git clone https://github.com/hassannawaz02/Assigment-05.git
 cd secure-data-encryption
 🧪 Step 2: Create a Virtual Environment (optional but recommended)
 bash
